@@ -23,7 +23,7 @@
 
 | Dimension | Detail |
 |---|---|
-| **Engine** | Unity 6 (URP) |
+| **Engine** | Unity 2022.3.30f1 |
 | **Language** | C# |
 | **Dialogue** | Yarn Spinner 3.x |
 | **View** | 2D Isometric, hand-crafted sprite layers (parallax + fog) |
